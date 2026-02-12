@@ -6,7 +6,7 @@ This codelab demonstrates how to implement a dynamic, draggable image grid for H
 
 # Preview
 
-<div align="center">
+<div>
   <img src="./imgs/grid.gif" width="25%">
 </div>
 

@@ -2,7 +2,7 @@
 
 # How To Make Image Grid with WaterFlow struct with Dragging Functionality
 
-This codelab demonstrates how to implement a dynamic, draggable image grid for HarmonyOS NEXT wearables. You’ll learn to build both grid and waterflow (masonry) layouts with smooth drag-and-drop reordering.
+This codelab demonstrates how to implement a dynamic, draggable image grid for HarmonyOS wearables. You’ll learn to build both grid and waterflow (masonry) layouts with smooth drag-and-drop reordering.
 
 # Preview
 
@@ -19,7 +19,7 @@ This codelab demonstrates how to implement a dynamic, draggable image grid for H
 # Tech Stack
 
 - **Languages**: ArkTS, TypeScript
-- **Frameworks**: HarmonyOS NEXT SDK (Developer Preview)
+- **Frameworks**: HarmonyOS SDK (Developer Preview)
 - **Tools**: DevEco Studio 5.1.0.240SP1+
 - **Libraries**: @kit.ArkUI
 
@@ -46,7 +46,7 @@ This codelab demonstrates how to implement a dynamic, draggable image grid for H
 ## Supported Devices
 
 * Huawei Watch 5
-* Other HarmonyOS NEXT-compatible watches
+* Other HarmonyOS-compatible watches
 
 # LICENSE
 
